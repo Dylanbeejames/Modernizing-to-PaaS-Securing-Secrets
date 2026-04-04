@@ -1,3 +1,7 @@
+Watch Me Do the Lab HERE
+
+https://www.loom.com/share/0f179f2c054e4bdaafde9dddd70b894b
+
 # Lab 03: Modernizing to PaaS & Securing Secrets
 
 **Author:** Dylan  
